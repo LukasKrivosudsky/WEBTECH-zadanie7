@@ -1,0 +1,36 @@
+{
+  "photos":
+  [
+    {
+      "src": "./images/fotka1.jpg",
+      "title": "Zámok Neuschwanstein",
+      "description": "Hrad dal postaviť bavorský kráľ Ľudovít II. v roku 1869, hoci už v tej dobe boli hrady nepraktické a od ich stavby sa už dávno upustilo."
+    },
+    {
+      "src": "./images/fotka2.jpg",
+      "title": "Hrad De Haar",
+      "description": "Moderní historie zámku De Haar začala v roce 1890, kdy se baron Etienne rozhodl splnit si sen a začal budovat sídlo pro sebe a svou rodinu. Měl jasnou představu velkého zámku, který musí vypadat autenticky, ale zároveň jemu i rodině poskytovat všechno moderní pohodlí té doby."
+      
+    },
+    {
+      "src": "./images/fotka3.jpg",
+      "title": "Zámok Peles",
+      "description": "Zámok bol stavaný s tým, že mal byť dôstojným sídlom kráľovského rodu a tak sa nešetrilo na opulentnosti, aby každému návštevníkovi vyrazil dych už od úplného začiatku."
+    },
+    {
+      "src": "./images/fotka4.jpg",
+      "title": "Hrad Edinburgh",
+      "description": "Jedným z prvých známych pomenovaní bol Panenský hrad, pretože podľa legendy tam žilo deväť osamelých panien. Počas histórie bol hrad veľakrát predmetom sporov medzi Angličanmi a Škótmi. Kvôli častým bojom ho museli niekoľkokrát rekonštruovať, preto na ňom badať rôzne architektonické štýly."
+    }, 
+    {
+      "src": "./images/fotka5.jpg",
+      "title": "Zámok Moszna",
+      "description": "Zámok je postavený do tvaru písmena U a okolo celej budovy sa rozprestiera obrovský park, pred zámkom je fontána, rodina, ktorá vlastnila zámok tu má vlastný cintorín. V zámku je 365 miestností a 99 veží."
+    },
+    {
+      "src": "./images/fotka6.jpg",
+      "title": "Zámok Bojnice",
+      "description": "Bojnický zámok patrí k najstarším a najvýznamnejším pamiatkam na Slovensku. Stojí na travertínovej kope nad mestom. Prvá písomná zmienka o existencii hradu je z roku 1113 v listine zoborského opátstva. Pôvodne bol hradom dreveným a vyvinul sa zo staršieho hradiska. Postupne v priebehu 13. storočia bol budovaný z kameňa ako majetok rodu Poznanovcov."
+    }          
+  ]
+}
