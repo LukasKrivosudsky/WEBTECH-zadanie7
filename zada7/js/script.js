@@ -174,66 +174,6 @@ function eraseCookie(){
 }
 
 
-//modal gallery without lightbox
-/*
-var slideIndex = 0;
-var modalOrder = getCookie("imgOrder").split(":");
-function openModal(){
-    document.getElementById("myModal").style.display = "block"; 
-    loadImgFromJsonModal(imgSource,"modalImg");
-    
-}
-
-function closeModal() {
-    document.getElementById("myModal").style.display = "none";
-    document.getElementById("modalImg").remove();
-    var modal  = document.createElement('div');
-    modal.id = "modalImg";
-    modal.classList.add("center");
-    document.getElementById("modal-content").appendChild(modal);
-}*/
-
-
-/*
-// Next/previous controls
-function plusSlides(n) {
-    
-    showSlides(slideIndex+=n);
-}
-
-// Thumbnail image controls
-function currentSlide(n) {
-    slideIndex = parseInt(modalOrder[n]);
-    
-    console.log(slideIndex);
-    showSlides(slideIndex);
-}
-
-function showSlides(n) {
-    let cookie = getCookie("imgOrder");
-    let newOrder = cookie.split(":");
-    var i;
-    var slides = document.getElementsByClassName("picModal");
-    if (n > slides.length-1) {slideIndex = 0;}
-    if (n < 0) {slideIndex = slides.length-1;}
-    for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
-    }
-    slides[newOrder[slideIndex]].style.display = "block";
-}
-function loadImgFromJsonModal(imgSource,target){
-    //creating new Image and setting needed attributes as source, alternate text, id and class.
-    for(var i=0; i < imgSource.photos.length; i++){
-    let img = new Image();
-    img.setAttribute("src", imgSource.photos[i].src);
-    img.setAttribute("alt", imgSource.photos[i].title);
-    img.setAttribute("class","picModal");
-
-    img.style.display = "none";
-    //Appending image to given div element
-    document.getElementById(target).appendChild(img);
-    }
-}*/
 
 
 
